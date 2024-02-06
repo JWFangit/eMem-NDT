@@ -17,4 +17,10 @@ All of our models are stored in the "model" folder.
 
 The visualization of memory usage and the retrieval of the NBDT tree structure files are all saved in the "information" folder.
 
-If your are interest this work, please cite the article as following bibtex:
+If your are interest this work, please cite the work as the following format:
+
+```
+[1] Peining Shen, Jianwu Fang, Hongkai Yu, and Jianru Xue,
+"Vehicle Behavior Prediction by Episodic-Memory Implanted NDT," 
+in ICRA, 2024.
+```
