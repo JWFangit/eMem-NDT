@@ -5,4 +5,16 @@ Brief Introduction: In autonomous driving, predicting the behavior (turning left
 
 ![image](https://github.com/JWFangit/eMem-NDT/blob/main/eMem-NDT.png)
 
-The code link is https://github.com/YIQIONG-SPN/eMemNDT
+The code link is https://github.com/YIQIONG-SPN/eMemNDT or download the whole file of "eMemNDT-main.zip".
+
+Code Illustration:
+
+The data loading methods are located in the "data" folder, with two files corresponding to different datasets' loading.
+
+The main folder contains the experimental code, including NBDT, CNN_LSTM; State_former, and eMem-NDT.
+
+All of our models are stored in the "model" folder.
+
+The visualization of memory usage and the retrieval of the NBDT tree structure files are all saved in the "information" folder.
+
+If your are interest this work, please cite the article as following bibtex:
